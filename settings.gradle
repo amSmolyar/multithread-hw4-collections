@@ -1,0 +1,4 @@
+rootProject.name = 'multithread-collections'
+include 'task1-callCenter'
+include 'task2-map'
+
